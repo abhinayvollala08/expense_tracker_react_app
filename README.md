@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Expense Tracker React App
+  + Welcome to the Expense Tracker React App! This is a responsive and interactive web application designed to help users maintain and organize their budgets efficiently.
+## Features
+ + Add Budget: Create a new budget for various categories.
+ + Add Expense: Record expenses within each budget category.
+ + Delete Budget: Remove budgets that are no longer needed.
+ + Responsive Design: Seamlessly adapts to different screen sizes for a better user experience.
+ + Real-Time Updates: Immediate reflection of changes in the budget and expenses.
+## Getting Started
+  ### Prerequisites
+  + Node.js installed on your machine.
+  + npm (Node Package Manager).
+  ### Installation
+  1. Clone the repository:
+     ```sh
+     git clone https://github.com/your-username/expense_tracker_react_app.git
+     ```
+  2. Navigate to the project directory:
+     ```sh
+     cd expense_tracker_react_app
+     ```
+  3. Install the dependencies:
+     ```sh
+     npm install
+     ```
+  4. Install the bootstrap dependencies :
+     ```sh
+     npm install react-bootstrap bootstrap
+     ```
+  ### Running the App
+  1. Start the development server:
+     ```sh
+     npm start
+     ```
+  2. Open your browser and navigate to:
+     ```sh
+     http://localhost:3000
+     ```
+## Usage
++ Click on the "Add Budget" button to create a new budget category.
++ Enter the budget details and save.
++ Use the "Add Expense" button to record expenses within the respective budget categories.
++ Use the "Delete Budget" button to remove any budget category.
++ Monitor and manage your expenses effectively.
+## Screenshots
+  + Dashboard displaying various budget categories.
+    ![dashboard](https://github.com/abhinayvollala08/expense_tracker_react_app/assets/95137168/935ba765-7a7d-4c19-aedd-9ad8eaa93ef5)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  + Form to add a new budget.
+    ![add budget](https://github.com/abhinayvollala08/expense_tracker_react_app/assets/95137168/16aba76b-6b65-4827-921e-7ae7afdff066)
 
-## Available Scripts
+  + Form to add an expense to a budget category.
+    ![add expenses](https://github.com/abhinayvollala08/expense_tracker_react_app/assets/95137168/ea1e0f06-a8b9-49cf-a4c8-83519f82d2bf)
 
-In the project directory, you can run:
+  + Option to view & delete a budget category.
+    ![view and delete budget](https://github.com/abhinayvollala08/expense_tracker_react_app/assets/95137168/5b44c800-7627-4681-ae3a-74386ec8f180)
+## Contributing
+Contributions are welcome! If you have any ideas or suggestions, please feel free to submit a pull request or open an issue.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Thankyou for the visit :)
